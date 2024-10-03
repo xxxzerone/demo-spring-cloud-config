@@ -1,0 +1,6 @@
+token:
+  expiration_time: 864000000
+  secret: usertokenc3ByaW5nLWJvb3QtYW5kLWNsb3VkLWp3dC11c2VyLXRva2Vugfdhs345346hsd34jeDGHRUawert4563dfgdgtokendev
+
+gateway:
+  ip: 112.169.251.1
